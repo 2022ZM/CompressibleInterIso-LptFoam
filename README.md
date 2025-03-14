@@ -8,7 +8,7 @@
   - Particle-particle interaction (collision, coalescence) and secondary breakup
   - Adaptive mesh refinement
   - Fully parallelized
-- Based on interIsoFoam in [OpenFOAM v2112](https://www.openfoam.com).
+- Based on compressibleInterIsoFoam in [OpenFOAM v2112](https://www.openfoam.com).
 
 ## Compilation
 
