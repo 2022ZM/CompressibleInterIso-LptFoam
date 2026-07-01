@@ -309,8 +309,14 @@ Foam::breakupModel::breakupModel
     Cb_(0.785),
     Cstrip_(0.5),
     Cs_(10.0),
+    // compressible flow
+    B1_(0.75),
+    B2_(0.348)
+    /*
+    // incompressible flow
     B1_(0.375),
     B2_(0.2274)
+    */
 {
     if
     (
