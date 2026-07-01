@@ -9,7 +9,7 @@
     Copyright (C) 2016 DHI
     Copyright (C) 2017 OpenCFD Ltd.
     Copyright (C) 2018 Johan Roenby
-    Copyright (C) 2024 Dr. Meng Zhang
+    Copyright (C) 2022 Dr. Meng Zhang
 -------------------------------------------------------------------------------
 License
     This file is part of OpenFOAM.
