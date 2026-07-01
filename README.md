@@ -8,7 +8,7 @@
   - Particle-particle interaction (collision, coalescence) and secondary breakup
   - Adaptive mesh refinement
   - Fully parallelized
-- Based on compressibleInterIsoFoam in [OpenFOAM v2112](https://www.openfoam.com).
+- Based on interIsoFoam in [OpenFOAM v2112](https://www.openfoam.com).
 
 ## Compilation
 
@@ -30,5 +30,11 @@ Meng Zhang, Xiang Lv, Fangmian Dong, et al.
 High-Fidelity atomization simulation of kerosene swirl injector using Multi-Resolution framework
 Physics of Fluids，March 2025.
 https://doi.org/10.1063/5.0258236
+
+Reference2
+Meng Zhang, Shuai Zhou, Xinyao Lei, et al. 
+Atomization dynamics of a converge-end gas-centered swirl coaxial injector
+Aerospace Science and Technology, October 2025.
+https://doi.org/10.1016/j.ast.2025.111193
 
 ```
